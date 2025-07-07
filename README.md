@@ -21,4 +21,6 @@ pip install -r requirements.txt
 ipython notebook
 ```
 
+## Reference
 
+* Diehl, P., Downing, E., Edwards, A. et al. Coupling Approaches with Non-matching Grids for Classical Linear Elasticity and Bond-based Peridynamic Models in 1D. J Peridyn Nonlocal Model 7, 7 (2025). https://doi.org/10.1007/s42102-025-00131-9 [Preprint](https://arxiv.org/abs/2504.06093)
