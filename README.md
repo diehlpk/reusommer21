@@ -1,6 +1,6 @@
 # Coupling approaches with non-matching grids for classical linear elasticity and bond-based  peridynamic models in 1D - Part I
 
-[![DOI](https://zenodo.org/badge/369535539.svg)](https://zenodo.org/badge/latestdoi/369535539) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diehlpk/reusommer21/HEAD)
+ <a href="https://arxiv.org/abs/2504.06093"><img src="https://img.shields.io/badge/arXiv-2504.06093-b31b1b.svg?style=for-the-badge"> [![DOI](https://zenodo.org/badge/369535539.svg)](https://zenodo.org/badge/latestdoi/369535539) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diehlpk/reusommer21/HEAD)
 
 Simulations for the comparison of the three methods without damage. With these scripts, we compare both models in the case of pure linear elasticity.
 
